@@ -30,7 +30,7 @@ Convenience POM to include most types of [SemanticCMS pages](https://semanticcms
 * [GitHub](https://github.com/aoindustries/semanticcms-pages-all)
 
 ## Modules Included
-* [SemanticCMS Pages Missing](https://semanticcms.com/pages/missing/)
+* [SemanticCMS Pages Unavailable](https://semanticcms.com/pages/unavailable/)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):

@@ -33,7 +33,7 @@ along with semanticcms-pages-all.  If not, see <http://www.gnu.org/licenses />.
 		title="@{documented.name}"
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
-		datePublished="2017-08-19T16:50:41-0500"
+		datePublished="2017-08-22T17:48:07-0500"
 	>
 		<core:child page="changelog.jspx" />
 		<ao:include
@@ -58,7 +58,7 @@ along with semanticcms-pages-all.  If not, see <http://www.gnu.org/licenses />.
 		</section:section>
 		<section:section label="Modules Included">
 			<ul>
-				<li><core:link book="/pages/missing" page="/index.jspx" /></li>
+				<li><core:link book="/pages/unavailable" page="/index.jspx" /></li>
 			</ul>
 		</section:section>
 	</core:page>
