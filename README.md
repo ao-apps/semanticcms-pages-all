@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [SemanticCMS](https://semanticcms.com/) / [Pages](https://semanticcms.com/pages/) / [All](https://semanticcms.com/pages/all/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [SemanticCMS](https://github.com/aoindustries/semanticcms) / [Pages](https://github.com/aoindustries/semanticcms-pages) / [All](https://github.com/aoindustries/semanticcms-pages-all)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-alpha">
 		<img src="https://semanticcms.com/ao-badges/project-alpha.svg" alt="project: alpha" />
@@ -21,7 +21,7 @@
 	</a>
 </p>
 
-Convenience POM to include most types of [SemanticCMS pages](https://semanticcms.com/pages/), not including documentation or examples.
+Convenience POM to include most types of [SemanticCMS pages](https://github.com/aoindustries/semanticcms-pages), not including documentation or examples.
 
 ## Project Links
 * [Project Home](https://semanticcms.com/pages/all/)
@@ -30,7 +30,7 @@ Convenience POM to include most types of [SemanticCMS pages](https://semanticcms
 * [GitHub](https://github.com/aoindustries/semanticcms-pages-all)
 
 ## Modules Included
-* [SemanticCMS Pages Unavailable](https://semanticcms.com/pages/unavailable/)
+* [SemanticCMS Pages Unavailable](https://github.com/aoindustries/semanticcms-pages-unavailable)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
