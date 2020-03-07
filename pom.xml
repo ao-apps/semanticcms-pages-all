@@ -32,13 +32,6 @@ along with semanticcms-pages-all.  If not, see <http://www.gnu.org/licenses />.
 	<groupId>com.semanticcms</groupId><artifactId>semanticcms-pages-all</artifactId><version>2.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<properties>
-		<javaVersion>1.8</javaVersion>
-		<compiler.bootclasspath>${bootclasspath.jdk8}</compiler.bootclasspath>
-		<javac.bootclasspath>${bootclasspath.jdk8}</javac.bootclasspath>
-		<javac.link.javaApi>${javac.link.javaApi.jdk8}</javac.link.javaApi>
-	</properties>
-
 	<name>SemanticCMS Pages All²</name>
 	<url>https://semanticcms.com/pages/all/</url>
 	<description>Convenience POM to include most types of SemanticCMS pages, not including documentation or examples.</description>
