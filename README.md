@@ -9,6 +9,11 @@
 
 [![Build](https://github.com/aoindustries/semanticcms-pages-all/workflows/Build/badge.svg?branch=master)](https://github.com/aoindustries/semanticcms-pages-all/actions?query=workflow%3ABuild)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.semanticcms/semanticcms-pages-all/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.semanticcms/semanticcms-pages-all)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.semanticcms%3Asemanticcms-pages-all&metric=alert_status)](https://sonarcloud.io/dashboard?branch=master&id=com.semanticcms%3Asemanticcms-pages-all)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.semanticcms%3Asemanticcms-pages-all&metric=ncloc)](https://sonarcloud.io/component_measures?branch=master&id=com.semanticcms%3Asemanticcms-pages-all&metric=ncloc)  
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.semanticcms%3Asemanticcms-pages-all&metric=reliability_rating)](https://sonarcloud.io/component_measures?branch=master&id=com.semanticcms%3Asemanticcms-pages-all&metric=Reliability)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.semanticcms%3Asemanticcms-pages-all&metric=security_rating)](https://sonarcloud.io/component_measures?branch=master&id=com.semanticcms%3Asemanticcms-pages-all&metric=Security)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?branch=master&project=com.semanticcms%3Asemanticcms-pages-all&metric=sqale_rating)](https://sonarcloud.io/component_measures?branch=master&id=com.semanticcms%3Asemanticcms-pages-all&metric=Maintainability)
 
 Convenience POM to include most types of [SemanticCMS pages](https://github.com/aoindustries/semanticcms-pages), not including documentation or examples.
 
