@@ -1,6 +1,6 @@
 /*
  * semanticcms-pages-all - Convenience POM to include most types of SemanticCMS pages, not including documentation or examples.
- * Copyright (C) 2021  AO Industries, Inc.
+ * Copyright (C) 2021, 2022  AO Industries, Inc.
  *     support@aoindustries.com
  *     7262 Bull Pen Cir
  *     Mobile, AL 36695
@@ -21,4 +21,4 @@
  * along with semanticcms-pages-all.  If not, see <https://www.gnu.org/licenses/>.
  */
 module com.semanticcms.pages.all {
-}
+} // TODO: Avoiding rewrite-maven-plugin-4.22.2 truncation
