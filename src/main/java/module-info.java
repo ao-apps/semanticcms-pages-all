@@ -21,4 +21,4 @@
  * along with semanticcms-pages-all.  If not, see <https://www.gnu.org/licenses/>.
  */
 module com.semanticcms.pages.all {
-} // TODO: Avoiding rewrite-maven-plugin-4.22.2 truncation
+}
