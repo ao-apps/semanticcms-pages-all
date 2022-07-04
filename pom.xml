@@ -40,7 +40,7 @@ along with semanticcms-pages-all.  If not, see <https://www.gnu.org/licenses/>.
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
-  <name>SemanticCMS Pages All²</name>
+  <name>SemanticCMS Pages All</name>
   <url>https://semanticcms.com/pages/all/</url>
   <description>Convenience POM to include most types of SemanticCMS pages, not including documentation or examples.</description>
   <inceptionYear>2017</inceptionYear>
