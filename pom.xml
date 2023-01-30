@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 semanticcms-pages-all - Convenience POM to include most types of SemanticCMS pages, not including documentation or examples.
-Copyright (C) 2017, 2018, 2019, 2020, 2021, 2022  AO Industries, Inc.
+Copyright (C) 2017, 2018, 2019, 2020, 2021, 2022, 2023  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -105,6 +105,20 @@ along with semanticcms-pages-all.  If not, see <https://www.gnu.org/licenses/>.
       </snapshots>
     </repository>
   </repositories>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId><artifactId>maven-dependency-plugin</artifactId>
+        <configuration>
+          <usedDependencies>
+            <!-- Required for module-info.java -->
+            <dependency>com.semanticcms:semanticcms-pages-unavailable</dependency>
+          </usedDependencies>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
 
   <dependencyManagement>
     <dependencies>
