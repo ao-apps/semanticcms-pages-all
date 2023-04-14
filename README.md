@@ -20,7 +20,7 @@ Convenience POM to include most types of [SemanticCMS pages](https://github.com/
 ## Project Links
 * [Project Home](https://semanticcms.com/pages/all/)
 * [Changelog](https://semanticcms.com/pages/all/changelog)
-* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.semanticcms&q=a%3Asemanticcms-pages-all)
+* [Maven Central Repository](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-pages-all)
 * [GitHub](https://github.com/ao-apps/semanticcms-pages-all)
 
 ## Modules Included
